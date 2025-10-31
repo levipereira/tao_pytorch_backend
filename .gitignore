@@ -10,7 +10,7 @@ TAGS
 __py_cache__
 __pycache__
 .hypothesis/
-
+YOLO/
 # Models and logs
 *.log
 *.tlt
